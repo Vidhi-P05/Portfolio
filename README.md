@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 It highlights my skills, projects, and contact information.
 
 ## Live Demo
-https://vidhisportfolio.netlify.app
+[View Portfolio](https://vidhisportfolio.netlify.app)
 
 ## Technologies Used
 - HTML5
